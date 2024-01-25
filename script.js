@@ -70,3 +70,17 @@
 //   console.log(aaaaa + resisNumber / 2);
 // };
 // addNumberofExceution(422, 2);
+
+// let mubashir = {
+//   name: "mubashir",
+//   findName: function () {
+//     console.log(this.name);
+//     const that = this;
+//     const another = function () {
+//       console.log(that.name);
+//     };
+//     another();
+//   },
+// };
+
+// mubashir.findName();
